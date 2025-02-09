@@ -1,8 +1,8 @@
 # EncourageCat Bot (Discord)
 
-**EncourageCat Bot** is a Discord bot created to provide encouraging quotes and cat-themed holiday wishes in any server it is added to. $encat elicits a response. This project was built using Python.
+### **YouTube Demo Video:** https://youtu.be/YkVk0NN_L88
 
-**YouTube Demo Video:** https://youtu.be/YkVk0NN_L88
+**EncourageCat Bot** is a Discord bot created to provide encouraging quotes and cat-themed holiday wishes in any server it is added to. $encat elicits a response. This project was built using Python.
 
 ## **What went wrong:**
 
