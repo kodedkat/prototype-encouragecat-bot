@@ -1,8 +1,8 @@
 # EncourageCat Bot (Discord)
 
-YouTube Demo Video: https://youtu.be/YkVk0NN_L88
-
 EncourageCat Bot is a Discord bot created to provide encouraging quotes and cat-themed holiday wishes in any server it is added to. $encat elicits a response. This project was built using Python.
+
+YouTube Demo Video: https://youtu.be/YkVk0NN_L88
 
 What went wrong:
 I had trouble running the program, and I kept encountering an error saying "No such file or directory." Upon consulting the Python help text channel in the Codedex Community server, I learned that the program needs to be run in the script files, not the Python install files. The path can be set by clicking the search icon, which is two below the VSCode icon in the top left, or it can also be set by typing `cd C:\Users\kathina\code\discord_encouragecat_bot\`, which will bring the folder. The command is properly written as `python ./encouragecat_bot.py`.
