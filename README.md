@@ -1,4 +1,4 @@
-# EncourageCat Bot (Discord)
+# EncourageCat Bot ฅ^>⩊<^ฅ
 
 ### **YouTube Demo Video:** https://youtu.be/YkVk0NN_L88
 
