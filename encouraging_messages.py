@@ -2,8 +2,8 @@ import random, datetime
 
 encouraging_messages_list = [
   # quotes from me
-  "Lucky cat moment! :red_envelope: :black_cat: Your randomized message is written by the creator of this bot :3\n\"As much as it hurts and you wonder why, sometimes unfortunate life events are efforts to protect you from something worse and/or steer you toward something better.\" — Code Cat",
-  "Lucky cat moment! :red_envelope: :black_cat: Your randomized message is written by the creator of this bot :3\n\"Events in life occur in waves. You've survived the turbulence thus far, and you will again.\" — Code Cat",
+  "Lucky cat moment! :red_envelope: :cat:\nYour randomized message is written by the creator of this bot :3\n\"As much as it hurts, sometimes unfortunate life events are efforts to protect you from something worse and/or steer you towards something better.\" — Code Cat",
+  "Lucky cat moment! :red_envelope: :cat:\nYour randomized message is written by the creator of this bot :3\n\"Events in life occur in waves. You've survived the turbulence thus far, and you will again.\" — Code Cat",
 
   # 50 quotes from https://www.usatoday.com/story/life/2023/11/30/positive-quotes-to-inspire/11359498002/
   "\"It takes courage to grow up and become who you really are.\" — E.E. Cummings",
