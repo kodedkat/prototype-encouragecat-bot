@@ -14,4 +14,4 @@ Plans include ways to adapt and scale the bot to create other bots with quotes s
 
 ## **What I learned:**
 
-This project was a lesson in both Python and VSCode. It was my first time running a program that functions elsewhere (i.e. Discord). It was cathartic to write a few encouraging messages of my creation. As Code Cat, I also enjoyed cat-ifying the holiday messages and assigning corresponding emojis. Overall, raising EncourageCat Bot was a good experience, and I am happy to add it to my beginning collection of coding projects.
+This project was a lesson in both Python and VSCode. It was my first time running a program that functions elsewhere (i.e. Discord). It was cathartic to write a few encouraging messages of my creation. As Code Cat, I enjoyed cat-ifying the holiday messages and assigning corresponding emojis. Raising EncourageCat Bot was a good experience, and I am happy to add it to my beginning collection of coding projects.
