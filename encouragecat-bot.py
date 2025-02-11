@@ -30,4 +30,4 @@ class MyClient(discord.Client):
           await message.channel.send(encouraging_message)
 
 client = MyClient(intents=intents)
-client.run('[ insert discord bot token here ]')
+client.run('paste discord bot token here')
