@@ -1,6 +1,7 @@
 # EncourageCat Bot ≽^•⩊•^≼
 
-### **Video Demo:** https://youtu.be/Pa78HDUMGvg
+### **Video Demo:** https://youtu.be/Pa78HDUMGvg  
+
 
 **EncourageCat Bot** is a Discord bot created to provide encouraging quotes and cat-themed holiday wishes in any server it is added to. The command is $encat. This project was built using Python.
 
@@ -14,7 +15,8 @@ Plans include adapting and scaling the bot to create other bots with quotes stri
 
 ## **What I Learned:**
 
-This project was a valuable lesson in both Python and VSCode. It was my first time running a program that functions elsewhere (e.g., Discord). Writing a few encouraging messages of my creation was cathartic. As Code Cat, I enjoyed cat-ifying the holiday messages and assigning corresponding emojis. Raising EncourageCat Bot was a good experience, and I am happy to add it to my beginning collection of coding projects.
+This project was a valuable lesson in both Python and VSCode. It was my first time running a program that functions elsewhere (e.g., Discord). Writing a few encouraging messages of my creation was cathartic. As Code Cat, I enjoyed cat-ifying the holiday messages and assigning corresponding emojis. Raising EncourageCat Bot was a good experience, and I am happy to add it to my beginning collection of coding projects.  
+
 
 **Credits:** EncourageCat Bot's icon courtesy of Cheerleader Cat from The Battle Cats
 
