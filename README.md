@@ -18,4 +18,4 @@ This project was a valuable lesson in both Python and VSCode. It was my first ti
 
 **Credits:** EncourageCat Bot's icon courtesy of Cheerleader Cat from The Battle Cats
 
-*Made with Love by Code Cat* ᓚ₍⑅^..^₎♡
+ᓚ₍⑅^..^₎♡
