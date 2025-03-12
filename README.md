@@ -1,4 +1,4 @@
-# EncourageCat Bot ≽^•⩊•^≼
+# [ Prototype ] EncourageCat Bot ≽^•⩊•^≼
 
 ### **Video Demo:** https://youtu.be/Pa78HDUMGvg
 
